@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an interactive command-line interface (CLI) tool designed to act as a **junior developer and project manager AI assistant**. It leverages the Google Gemini API to understand natural language requests and perform various project management and file system operations on your local machine. The tool is designed to be conversational and flexible, asking for your approval before executing any actions that modify your files or project state.
+This is an interactive command-line interface (CLI) tool designed to act as a **junior developer and project manager AI assistant**. It leverages the Google Gemini API to understand natural language requests and perform various project management and file system operations on your local machine. The tool is designed to be conversational and flexible, asking for your approval before executing any actions that modify your files or project state. Author Contact: Author Contact: nath.jroth@p r o t o n m a i l. co m
 
 ## Features
 
